@@ -9,6 +9,7 @@ The default setting is for "market buy" 3.5 USDT (≈5,200₩) with KRW
 ```
 
 2. (Required) Fill in your `API Key` to `key.json`
+2-1. The API Key requires permission for "매수주문". If the "매수주문" option is not found, check if you are gernerating **API key for V1.0**
 
 --- Optional --- 
 
