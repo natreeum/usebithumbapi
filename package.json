@@ -1,0 +1,14 @@
+{
+  "name": "usebithumbapi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "buy": "node index"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "crypto-js": "^4.2.0"
+  }
+}
