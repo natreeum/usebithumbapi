@@ -1,5 +1,11 @@
 # Using Bithumb API (v1)
 
+> This repo is made to participate in '[Using Bithumb API Key Event](https://feed.bithumb.com/notice/1650330)'
+> 
+> You can buy me a coffee ☕️ :)
+>
+> `0xcefeb19319e7b14c4eee63ea697f10334436ea74 `
+
 The default setting is for "market buy" 3.5 USDT (≈5,200₩) with KRW
 
 1. (Required) Rename `key.json.example` to `key.json`
