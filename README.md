@@ -21,13 +21,13 @@
 선택사항
 
 ```
-Option 1. Check the endpoint you want to call (index.js:31)
+Option 1. 호출하려는 엔드포인트를 바꿀 수 있습니다 (index.js:31)
 
-Option 2. Check the symbol you want to buy (index.js:34)
+Option 2. 구매하려는 토큰의 심볼을 바꿀 수 있습니다 (index.js:34)
 
-Option 3. Check the market "KRW" or "BTC" (index.js:37)
+Option 3. KRW 마켓 혹은 BTC 마켓으로 설정할 수 있습니다 (index.js:37)
 
-Option 4. Check the amount you want to buy (index.js:40)
+Option 4. 구매할 '토큰수량'을 바꿀 수 있습니다. (index.js:40)
 ```
 
 3. npm 패키지 설치
